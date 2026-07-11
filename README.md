@@ -5,12 +5,13 @@
 ---
 
 ### 🛠️ Tech Stack & Learning Path
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="LangChain" />
-  <img src="https://shields.io" alt="DeepLearning.AI" />
-  <img src="https://shields.io" alt="DataCamp" />
-  <img src="https://shields.io" alt="Git" />
+
+![Python](https://shields.io)
+![LangChain](https://shields.io)
+![DeepLearning.AI](https://shields.io)
+![DataCamp](https://shields.io)
+![Git](https://shields.io)
+
 </p>
 
 ---
