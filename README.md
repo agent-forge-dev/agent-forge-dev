@@ -6,11 +6,11 @@
 
 ### 🛠️ Tech Stack & Learning Path
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="LangChain" />
-  <img src="https://shields.io" alt="DeepLearning.AI" />
-  <img src="https://shields.io" alt="DataCamp" />
-  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Python" height="35" />
+  <img src="https://shields.io" alt="LangChain" height="35" />
+  <img src="https://shields.io" alt="DeepLearning.AI" height="35" />
+  <img src="https://shields.io" alt="DataCamp" height="35" />
+  <img src="https://shields.io" alt="Git" height="35" />
 </p>
 
 ---
@@ -34,7 +34,8 @@
 ### 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://shields.io" alt="LinkedIn" height="35" />
   </a>
 </p>
+
 
